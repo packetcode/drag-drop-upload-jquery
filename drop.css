@@ -1,0 +1,15 @@
+
+/** APP: Drag and Drop Image uploader with progress bar
+    Website:packetcode.com
+    Author: Krishna TEja G S
+    Date: 3rd May 2014
+***/
+.drop{
+	border:2px dotted #bdc3c7;
+	padding:20px;
+	width:100%;
+	height:100px;
+	margin-bottom:20px;
+	color: #bdc3c7;
+	font-size:250%;
+}
